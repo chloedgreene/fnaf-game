@@ -3,6 +3,9 @@
 [ext_resource path="res://audio/title.mp3" type="AudioStream" id=1]
 
 [node name="Node2D" type="Node2D"]
+__meta__ = {
+"_edit_horizontal_guides_": [ -5.0 ]
+}
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 1 )
