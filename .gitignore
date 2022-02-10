@@ -1,1 +1,7 @@
 /target
+/build/android
+/build/linux
+/build/mac
+/build/web
+/build/windows
+/build/*
